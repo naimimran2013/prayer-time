@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_time"
+            android:title="@string/app_name" />
+
+        <item
+            android:id="@+id/ramadanCalender"
+            android:icon="@drawable/ic_calender"
+            android:title="@string/calender" />
+        <item
+            android:id="@+id/qibla_compass"
+            android:icon="@drawable/ic_compass"
+            android:title="@string/qiblaCompass" />
+        <item
+            android:id="@+id/tasbih"
+            android:icon="@drawable/ic_tasbih"
+            android:title="তসবীহ" />
+
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/ic_menu_share"
+            android:title="শেয়ার করুন" />
+        <item
+            android:id="@+id/rate"
+            android:icon="@drawable/ic_star"
+            android:title="রেটিং দিন" />
+
+
+    </group>
+
+
+    <item android:title="ইসলামিক অ্যাপ">
+        <menu>
+            <!--<item
+                android:id="@+id/ramadan"
+                android:icon="@drawable/ic_apps"
+                android:title="আজান ও রমজান ক্যালেন্ডার" />-->
+            <item
+                android:id="@+id/quran"
+                android:icon="@drawable/ic_apps"
+                android:title="অর্থ সহ কুরআন" />
+        </menu>
+    </item>
+
+
+</menu>

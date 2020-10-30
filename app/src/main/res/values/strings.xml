@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">রোজা ও নামাজের সময়সূচী</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="GPSAlertDialogTitle">GPS</string>
+    <string name="GPSAlertDialogMessage">GPS Message</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="noInternet">ইন্টারনেট সংযোগ পাওয়া যায় নি। নামাজের সময়সূচী সঠিক দেখাচ্ছে না। সঠিক সময়সূচী দেখতে ইন্টারনেট সংযোগ দিন।</string>
+    <string name="noInternet2">ইন্টারনেট সংযোগ পাওয়া যায় নি। মসজিদ খুঁজে পেতে ইন্টারনেট সংযোগ দিন।</string>
+
+    <string name="api_key">a207cd17473c3b323447d41a5f471601</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="mosqueFind">মসজিদ খুঁজুন</string>
+    <string name="calender">রমজান মাসের ক্যালেন্ডার</string>
+    <string name="qiblaCompass">কিবলা কম্পাস</string>
+    <string name="dialog">আপনাদের যে কোন উপদেশ এবং অনুপ্রেরণা আমাদের উৎসাহিত করে। ৫ স্টার রেটিং ও রিভিউ দিয়ে আমাদের সাহায্য করুন।</string>
+    <string name="locationDialog">লোকেশন সিলেক্ট করতে অটোমেটিক লোকেশন অথবা ম্যানুয়াল লোকেশন বাটনে ক্লিক করুন</string>
+
+    <string name="appId">ca-app-pub-9561048871055435~2387930700</string>
+    <string name="banner">ca-app-pub-9561048871055435/6135604024</string>
+    <string name="interstitial">ca-app-pub-9561048871055435/9883277341</string>
+</resources>
